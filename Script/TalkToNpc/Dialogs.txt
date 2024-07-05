@@ -1,0 +1,8 @@
+A
+hello
+B
+hello
+A
+how are you
+B
+I fine thank you
